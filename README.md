@@ -139,7 +139,7 @@ root causes and the planned fixes are listed in
 
 ## Credits
 
-* **Design & implementation:** Marcel Szerszen, ENSEIRB-MATMECA
+* **Design & implementation:** Marcel Szerszen in collaboration with Nicolas Caspar, ENSEIRB-MATMECA
 * **Course material:** the UART cores (`uart_recv.vhd`,
   `UART_fifoed_send_V1.vhd`, written by Y. Bornat), the bootloader
   (`boot_loader.vhd`, `byte_2_word.vhd`, `word_2_byte.vhd`), the top-level

@@ -1,0 +1,30 @@
+# Generated build output (GHDL + Vivado project created by the scripts)
+build/
+
+# Vivado generated files
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+webtalk*
+xsim.dir/
+vivado*.backup.*
+
+# GHDL
+*.o
+*.cf
+CPU_Bootloader
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
